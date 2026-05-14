@@ -1,0 +1,923 @@
+
+
+> @univerjs/sheets-numfmt-ui@0.12.4 build /home/bappu/websitenew/web/univer/packages/sheets-numfmt-ui
+> univer-cli build
+
+[1G[0K⠙[1G[0K[32m
+Vite@7.2.6 vite-plugin-external@6.2.2[39m
+[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x6)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x7)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x8)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x9)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x10)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x11)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x12)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x13)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x14)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x15)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x16)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x17)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x18)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x19)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x20)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x21)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x22)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x23)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x24)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x25)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x26)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x27)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x28)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x29)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x30)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x31)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x32)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x33)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x34)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x35)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x36)[39m
+[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ja-JP.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/locale/fa-IR.ts[22m[2K[1Gtransforming (1) [2msrc/locale/es-ES.ts[22m[2K[1Gtransforming (1) [2msrc/locale/vi-VN.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ru-RU.ts[22m[2K[1Gtransforming (1) [2msrc/locale/es-ES.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ko-KR.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ja-JP.ts[22m[2K[1Gtransforming (1) [2msrc/locale/en-US.ts[22m[2K[1Gtransforming (1) [2msrc/locale/zh-TW.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ca-ES.ts[22m[2K[1G[32m✓[39m 1 modules transformed.
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x2)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x3)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x4)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x5)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x6)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x7)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x8)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x9)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x10)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x11)[39m
+[2K[1Gtransforming (1) [2msrc/locale/es-ES.ts[22m[2K[1Gtransforming (1) [2msrc/locale/fr-FR.ts[22m[2K[1Gtransforming (1) [2msrc/locale/fa-IR.ts[22m[2K[1Gtransforming (1) [2msrc/locale/zh-CN.ts[22m[2K[1Gtransforming (1) [2msrc/locale/vi-VN.ts[22m[2K[1Gtransforming (1) [2msrc/locale/vi-VN.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ru-RU.ts[22m[2K[1Gtransforming (1) [2msrc/locale/fa-IR.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ko-KR.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ko-KR.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ca-ES.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ru-RU.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ca-ES.ts[22m[2K[1Gtransforming (1) [2msrc/locale/en-US.ts[22m[2K[1Gtransforming (1) [2msrc/locale/ja-JP.ts[22m[2K[1Gtransforming (1) [2msrc/locale/fr-FR.ts[22m[2K[1Gtransforming (1) [2msrc/locale/fr-FR.ts[22m[2K[1Gtransforming (1) [2msrc/locale/zh-CN.ts[22m[2K[1Gtransforming (1) [2msrc/locale/zh-TW.ts[22m[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x12)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x13)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x14)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x15)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x16)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x17)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x18)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x19)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x20)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x21)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x22)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x23)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x24)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x25)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x26)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x27)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x28)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x29)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x30)[39m
+[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Gtransforming (1) [2msrc/locale/en-US.ts[22m[2K[1Gtransforming (1) [2msrc/locale/zh-TW.ts[22m[2K[1Gtransforming (1) [2msrc/locale/zh-CN.ts[22m[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x31)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x32)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 1 modules transformed. [33m(x33)[39m
+[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Browserslist: browsers data (caniuse-lite) is 6 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[32m
+[36m[vite:dts][32m Start generate declaration files...[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/ja-JP.js  [39m[1m[2m1.82 kB[22m[1m[22m[2m │ gzip: 0.81 kB[22m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/es-ES.js  [39m[1m[2m1.76 kB[22m[1m[22m[2m │ gzip: 0.81 kB[22m
+[32m✓ built in 28.85s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/vi-VN.js  [39m[1m[2m1.99 kB[22m[1m[22m[2m │ gzip: 0.93 kB[22m
+[32m✓ built in 28.85s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/ja-JP.js  [39m[1m[2m1.54 kB[22m[1m[22m[2m │ gzip: 0.80 kB[22m
+[32m✓ built in 28.85s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/es-ES.js  [39m[1m[2m1.84 kB[22m[1m[22m[2m │ gzip: 0.71 kB[22m
+[32m✓ built in 28.85s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/fa-IR.js  [39m[1m[2m2.21 kB[22m[1m[22m[2m │ gzip: 0.79 kB[22m
+[32m✓ built in 28.85s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/ru-RU.js  [39m[1m[2m2.42 kB[22m[1m[22m[2m │ gzip: 0.98 kB[22m
+[32m✓ built in 28.85s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/ko-KR.js  [39m[1m[2m1.66 kB[22m[1m[22m[2m │ gzip: 0.90 kB[22m
+[32m✓ built in 28.85s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/zh-TW.js  [39m[1m[2m1.51 kB[22m[1m[22m[2m │ gzip: 0.75 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/en-US.js  [39m[1m[2m1.63 kB[22m[1m[22m[2m │ gzip: 0.76 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/es-ES.js  [39m[1m[2m1.56 kB[22m[1m[22m[2m │ gzip: 0.69 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/ca-ES.js  [39m[1m[2m1.79 kB[22m[1m[22m[2m │ gzip: 0.70 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/fr-FR.js  [39m[1m[2m1.60 kB[22m[1m[22m[2m │ gzip: 0.70 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/fa-IR.js  [39m[1m[2m1.92 kB[22m[1m[22m[2m │ gzip: 0.78 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/vi-VN.js  [39m[1m[2m2.07 kB[22m[1m[22m[2m │ gzip: 0.83 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/vi-VN.js  [39m[1m[2m1.79 kB[22m[1m[22m[2m │ gzip: 0.81 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/zh-CN.js  [39m[1m[2m1.23 kB[22m[1m[22m[2m │ gzip: 0.72 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/ru-RU.js  [39m[1m[2m2.70 kB[22m[1m[22m[2m │ gzip: 0.99 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/fa-IR.js  [39m[1m[2m2.13 kB[22m[1m[22m[2m │ gzip: 0.90 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/ko-KR.js  [39m[1m[2m1.74 kB[22m[1m[22m[2m │ gzip: 0.78 kB[22m
+[32m✓ built in 28.86s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/ca-ES.js  [39m[1m[2m1.72 kB[22m[1m[22m[2m │ gzip: 0.80 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/ru-RU.js  [39m[1m[2m2.63 kB[22m[1m[22m[2m │ gzip: 1.10 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/en-US.js  [39m[1m[2m1.42 kB[22m[1m[22m[2m │ gzip: 0.65 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/ca-ES.js  [39m[1m[2m1.51 kB[22m[1m[22m[2m │ gzip: 0.69 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/fr-FR.js  [39m[1m[2m1.88 kB[22m[1m[22m[2m │ gzip: 0.72 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/fr-FR.js  [39m[1m[2m1.80 kB[22m[1m[22m[2m │ gzip: 0.82 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/ja-JP.js  [39m[1m[2m1.75 kB[22m[1m[22m[2m │ gzip: 0.93 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/zh-TW.js  [39m[1m[2m1.23 kB[22m[1m[22m[2m │ gzip: 0.73 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/zh-CN.js  [39m[1m[2m1.51 kB[22m[1m[22m[2m │ gzip: 0.74 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/locale/en-US.js  [39m[1m[2m1.70 kB[22m[1m[22m[2m │ gzip: 0.66 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/zh-TW.js  [39m[1m[2m1.44 kB[22m[1m[22m[2m │ gzip: 0.86 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/locale/zh-CN.js  [39m[1m[2m1.44 kB[22m[1m[22m[2m │ gzip: 0.85 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/locale/ko-KR.js  [39m[1m[2m1.46 kB[22m[1m[22m[2m │ gzip: 0.77 kB[22m
+[32m✓ built in 28.88s[39m
+[2K[1Gtransforming (3) [2msrc/global.css[22m[2K[1Gtransforming (3) [2msrc/global.css[22m[2K[1Gtransforming (3) [2msrc/global.css[22m[32m[36m[vite:dts][32m Declaration files built in 28333ms.
+[39m
+[32m✓ built in 29.17s[39m
+[2K[1Gtransforming (9) [2msrc/controllers/numfmt.menu.controller.ts[22m[2K[1Gtransforming (10) [2msrc/controllers/menu.schema.ts[22m[2K[1Gtransforming (14) [2msrc/commands/operations/open.numfmt.panel.operation.ts[22m[2K[1Gtransforming (15) [2msrc/controllers/menu.ts[22m[2K[1Gtransforming (24) [2m../../node_modules/.pnpm/@univerjs+icons@1.0.2_react-dom@19.[2K[1Gtransforming (25) [2m../../node_modules/.pnpm/@univerjs+icons@1.0.2_react-dom@19.[2K[1Gtransforming (25) [2m../../node_modules/.pnpm/@univerjs+icons@1.0.2_react-dom@19.[2K[1Gtransforming (212) [2m../../node_modules/.pnpm/@univerjs+icons@1.0.2_react-dom@19[2K[1Gtransforming (25) [2m../../node_modules/.pnpm/@univerjs+icons@1.0.2_react-dom@19.[2K[1Gtransforming (314) [2m../../node_modules/.pnpm/@univerjs+icons@1.0.2_react-dom@19[2K[1Gtransforming (314) [2m../../node_modules/.pnpm/@univerjs+icons@1.0.2_react-dom@19[2K[1Gtransforming (314) [2m../../node_modules/.pnpm/@univerjs+icons@1.0.2_react-dom@19[2K[1G[2K[1G[2K[1G[32m✓[39m 314 modules transformed.
+[2K[1G[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 314 modules transformed. [33m(x2)[39m
+[2K[1G[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 314 modules transformed. [33m(x3)[39m
+[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1G[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (2)...[2K[1G[2mlib/[22m[35mindex.css     [39m[1m[2m 1.76 kB[22m[1m[22m[2m │ gzip: 0.58 kB[22m
+[2mlib/[22m[36mumd/index.js  [39m[1m[2m33.09 kB[22m[1m[22m[2m │ gzip: 9.87 kB[22m
+[32m✓ built in 31.48s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1Gcomputing gzip size (2)...[2K[1G[2mlib/[22m[35mindex.css     [39m[1m[2m 1.76 kB[22m[1m[22m[2m │ gzip: 0.58 kB[22m
+[2mlib/[22m[36mcjs/index.js  [39m[1m[2m32.49 kB[22m[1m[22m[2m │ gzip: 9.67 kB[22m
+[32m✓ built in 31.49s[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1Gcomputing gzip size (2)...[2K[1G[2mlib/[22m[35mindex.css    [39m[1m[2m 1.76 kB[22m[1m[22m[2m │ gzip:  0.58 kB[22m
+[2mlib/[22m[36mes/index.js  [39m[1m[2m43.69 kB[22m[1m[22m[2m │ gzip: 11.82 kB[22m
+[32m✓ built in 31.50s[39m
+[1G[0K⠙[1G[0K

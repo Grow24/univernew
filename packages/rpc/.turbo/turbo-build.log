@@ -1,0 +1,68 @@
+
+
+> @univerjs/rpc@0.12.4 build /home/bappu/websitenew/web/univer/packages/rpc
+> univer-cli build
+
+[1G[0K⠙[1G[0K[32m
+Vite@7.2.6 vite-plugin-external@6.2.2[39m
+[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x3)[39m
+[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (3) [2msrc/services/rpc/channel.service.ts[22m[2K[1Gtransforming (8) [2msrc/controllers/config.schema.ts[22m[2K[1Gtransforming (8) [2msrc/controllers/config.schema.ts[22m[2K[1G[32m✓[39m 9 modules transformed.
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 9 modules transformed. [33m(x2)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 9 modules transformed. [33m(x3)[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[32m
+[36m[vite:dts][32m Start generate declaration files...[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/index.js  [39m[1m[2m12.04 kB[22m[1m[22m[2m │ gzip: 3.50 kB[22m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/index.js  [39m[1m[2m15.89 kB[22m[1m[22m[2m │ gzip: 4.37 kB[22m
+[32m✓ built in 5.94s[39m
+[32m[36m[vite:dts][32m Declaration files built in 5512ms.
+[39m
+[32m✓ built in 5.94s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/index.js  [39m[1m[2m12.11 kB[22m[1m[22m[2m │ gzip: 3.61 kB[22m
+[32m✓ built in 5.94s[39m
+[1G[0K⠙[1G[0K

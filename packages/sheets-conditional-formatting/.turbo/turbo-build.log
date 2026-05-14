@@ -1,0 +1,135 @@
+
+
+> @univerjs/sheets-conditional-formatting@0.12.4 build /home/bappu/websitenew/web/univer/packages/sheets-conditional-formatting
+> univer-cli build
+
+[1G[0K⠙[1G[0K[32m
+Vite@7.2.6 vite-plugin-external@6.2.2[39m
+[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x6)[39m
+[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (2) [2msrc/facade/f-worksheet.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (2) [2msrc/facade/f-range.ts[22m[2K[1Gtransforming (2) [2msrc/facade/f-workbook.ts[22m[2K[1G[32m✓[39m 6 modules transformed.
+[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (6) [2msrc/facade/f-conditional-formatting-builder.ts[22m[2K[1Gtransforming (3) [2msrc/utils/create-cf-id.ts[22m[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 6 modules transformed. [33m(x2)[39m
+[2K[1Gtransforming (6) [2msrc/facade/f-conditional-formatting-builder.ts[22m[2K[1Gtransforming (14) [2msrc/render/icon.render.ts[22m[2K[1Gtransforming (3) [2msrc/utils/type.ts[22m[2K[1Gtransforming (3) [2msrc/models/conditional-formatting-rule-model.ts[22m[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 6 modules transformed. [33m(x3)[39m
+[2K[1Gtransforming (10) [2msrc/utils/create-cf-id.ts[22m[2K[1Gtransforming (19) [2msrc/commands/commands/set-cf.command.ts[22m[2K[1Gtransforming (20) [2msrc/commands/commands/clear-range-cf.command.ts[22m[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[2K[1Gtransforming (33) [2msrc/models/calculate-unit-v2/data-bar-calculate-unit.ts[22m[32m
+[36m[vite:dts][32m Start generate declaration files...[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/facade.js  [39m[1m[2m14.21 kB[22m[1m[22m[2m │ gzip: 2.53 kB[22m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/facade.js  [39m[1m[2m78.80 kB[22m[1m[22m[2m │ gzip: 6.90 kB[22m
+[32m✓ built in 18.49s[39m
+[2K[1Gtransforming (36) [2msrc/models/calculate-unit-v2/base-calculate-unit.ts[22m[2K[1Gtransforming (36) [2msrc/models/calculate-unit-v2/base-calculate-unit.ts[22m[2K[1Gtransforming (36) [2msrc/models/calculate-unit-v2/base-calculate-unit.ts[22m[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/facade.js  [39m[1m[2m13.79 kB[22m[1m[22m[2m │ gzip: 2.39 kB[22m
+[32m✓ built in 18.49s[39m
+[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[32m✓[39m 36 modules transformed.
+[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 36 modules transformed. [33m(x2)[39m
+[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 36 modules transformed. [33m(x3)[39m
+[32m[36m[vite:dts][32m Declaration files built in 18333ms.
+[39m
+[32m✓ built in 19.20s[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Grendering chunks (1)...[2K[1G[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/index.js  [39m[1m[2m108.68 kB[22m[1m[22m[2m │ gzip: 24.35 kB[22m
+[32m✓ built in 19.25s[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/index.js  [39m[1m[2m130.06 kB[22m[1m[22m[2m │ gzip: 27.64 kB[22m
+[32m✓ built in 19.26s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/index.js  [39m[1m[2m108.56 kB[22m[1m[22m[2m │ gzip: 24.45 kB[22m
+[32m✓ built in 19.27s[39m
+[1G[0K⠙[1G[0K

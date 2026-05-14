@@ -1,0 +1,135 @@
+
+
+> @univerjs/engine-formula@0.12.4 build /home/bappu/websitenew/web/univer/packages/engine-formula
+> univer-cli build
+
+[1G[0K⠙[1G[0K[32m
+Vite@7.2.6 vite-plugin-external@6.2.2[39m
+[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x6)[39m
+[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (2) [2msrc/facade/f-univer.ts[22m[2K[1Gtransforming (2) [2msrc/facade/f-univer.ts[22m[2K[1Gtransforming (2) [2msrc/facade/f-univer.ts[22m[2K[1G[32m✓[39m 3 modules transformed.
+[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 3 modules transformed. [33m(x2)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 3 modules transformed. [33m(x3)[39m
+[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (44) [2msrc/functions/logical/function-names.ts[22m[2K[1Gtransforming (3) [2msrc/basics/function.ts[22m[2K[1Gtransforming (28) [2msrc/functions/base-function.ts[22m[2K[1Gtransforming (62) [2msrc/services/runtime.service.ts[22m[2K[1Gtransforming (52) [2msrc/functions/lookup/function-names.ts[22m[2K[1Gtransforming (3) [2msrc/functions/database/function-map.ts[22m[2K[1Gtransforming (18) [2msrc/functions/cube/function-names.ts[22m[2K[1Gtransforming (58) [2msrc/services/dependency-manager.service.ts[22m[2K[1Gtransforming (55) [2msrc/functions/lookup/function-names.ts[22m[2K[1Gtransforming (63) [2msrc/commands/mutations/register-function.mutation.ts[22m[2K[1Gtransforming (85) [2msrc/engine/analysis/lexer-tree-builder.ts[22m[2K[1Gtransforming (63) [2msrc/commands/mutations/set-other-formula.mutation.ts[22m[2K[1Gtransforming (63) [2msrc/commands/mutations/set-formula-data.mutation.ts[22m[2K[1Gtransforming (100) [2msrc/engine/value-object/lambda-value-object.ts[22m[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[32m
+[36m[vite:dts][32m Start generate declaration files...[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gtransforming (88) [2msrc/engine/utils/generate-ast-node.ts[22m[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/facade.js  [39m[1m[2m4.51 kB[22m[1m[22m[2m │ gzip: 1.32 kB[22m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/facade.js  [39m[1m[2m4.84 kB[22m[1m[22m[2m │ gzip: 1.45 kB[22m
+[32m✓ built in 14.40s[39m
+[2K[1Gtransforming (105) [2msrc/functions/array/array-constrain/index.ts[22m[2K[1Gtransforming (105) [2msrc/controller/set-feature-calculation.controller.ts[22m[2K[1Grendering chunks (1)...[2K[1G[2K[1Gtransforming (103) [2msrc/engine/value-object/array-value-object.ts[22m[2K[1Gtransforming (132) [2msrc/functions/statistical/lognorm-inv/index.ts[22m[2K[1Gcomputing gzip size (0)...[2K[1Gtransforming (107) [2msrc/controller/formula.controller.ts[22m[2K[1Gtransforming (172) [2msrc/functions/__tests__/create-function-test-bed.ts[22m[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/facade.js  [39m[1m[2m18.11 kB[22m[1m[22m[2m │ gzip: 4.67 kB[22m
+[32m✓ built in 14.73s[39m
+[2K[1Gtransforming (256) [2msrc/functions/engineering/imlog10/index.ts[22m[2K[1Gtransforming (308) [2msrc/functions/text/code/index.ts[22m[2K[1Gtransforming (369) [2msrc/engine/reference-object/column-reference-object.ts[22m[2K[1Gtransforming (461) [2msrc/functions/math/tan/index.ts[22m[2K[1Gtransforming (502) [2msrc/functions/financial/rri/index.ts[22m[2K[1Gtransforming (538) [2msrc/functions/statistical/binom-dist-range/index.ts[22m[2K[1Gtransforming (111) [2msrc/functions/database/dproduct/index.ts[22m[2K[1Gtransforming (589) [2m../../node_modules/.pnpm/@flatten-js+interval-tree@1.1.3/no[2K[1Gtransforming (163) [2msrc/functions/engineering/hex2dec/index.ts[22m[2K[1Gtransforming (223) [2msrc/functions/statistical/percentile-inc/index.ts[22m[2K[1Gtransforming (600) [2msrc/engine/utils/get-runtime-feature-cell.ts[22m[2K[1Gtransforming (265) [2msrc/functions/compatibility/hypgeomdist/index.ts[22m[2K[1Gtransforming (337) [2msrc/functions/math/floor/index.ts[22m[2K[1Gtransforming (405) [2msrc/functions/math/roundup/index.ts[22m[2K[1Gtransforming (447) [2msrc/functions/financial/coupncd/index.ts[22m[2K[1Gtransforming (485) [2msrc/functions/lookup/column/index.ts[22m[2K[1Gtransforming (508) [2msrc/functions/lookup/row/index.ts[22m[2K[1Gtransforming (555) [2msrc/functions/statistical/forecast/index.ts[22m[2K[1Gtransforming (111) [2msrc/functions/database/dget/index.ts[22m[2K[1Gtransforming (599) [2msrc/basics/is-null-cell.ts[22m[2K[1Gtransforming (167) [2msrc/functions/statistical/t-inv-2t/index.ts[22m[2K[1Gtransforming (253) [2msrc/functions/math/roundup/index.ts[22m[2K[1Gtransforming (601) [2msrc/models/utils/formula-data-util.ts[22m[2K[1Gtransforming (307) [2msrc/functions/information/n/index.ts[22m[2K[1Gtransforming (367) [2msrc/functions/logical/not/index.ts[22m[2K[1Gtransforming (422) [2msrc/functions/lookup/hyperlink/index.ts[22m[2K[1Gtransforming (490) [2msrc/functions/statistical/fisher/index.ts[22m[2K[1Gtransforming (554) [2msrc/functions/engineering/hex2oct/index.ts[22m[2K[1Gtransforming (602) [2msrc/engine/ast-node/base-ast-node-factory.ts[22m[2K[1Gtransforming (602) [2msrc/engine/ast-node/node-type.ts[22m[2K[1Gtransforming (607) [2msrc/engine/ast-node/null-node.ts[22m[2K[1Gtransforming (596) [2msrc/functions/engineering/imsin/index.ts[22m[2K[1Gtransforming (612) [2msrc/basics/calculate.ts[22m[2K[1Gtransforming (620) [2msrc/basics/complex.ts[22m[2K[1Gtransforming (614) [2msrc/basics/database.ts[22m[2K[1G[2K[1G[32m✓[39m 626 modules transformed.
+[2K[1Gtransforming (621) [2msrc/engine/utils/regexp-check.ts[22m[2K[1Gtransforming (613) [2msrc/basics/database.ts[22m[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 626 modules transformed. [33m(x2)[39m
+[2K[1Gtransforming (615) [2msrc/basics/statistical.ts[22m[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 626 modules transformed. [33m(x3)[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[32m[36m[vite:dts][32m Declaration files built in 22441ms.
+[39m
+[32m✓ built in 24.16s[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/index.js  [39m[1m[33m739.37 kB[39m[22m[2m │ gzip: 160.53 kB[22m
+[32m✓ built in 24.32s[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/index.js  [39m[1m[33m1,053.67 kB[39m[22m[2m │ gzip: 195.15 kB[22m
+[32m✓ built in 24.39s[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/index.js  [39m[1m[33m740.54 kB[39m[22m[2m │ gzip: 160.42 kB[22m
+[32m✓ built in 24.60s[39m
+[1G[0K⠙[1G[0K

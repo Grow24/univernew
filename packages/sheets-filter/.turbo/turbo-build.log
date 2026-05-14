@@ -1,0 +1,135 @@
+
+
+> @univerjs/sheets-filter@0.12.4 build /home/bappu/websitenew/web/univer/packages/sheets-filter
+> univer-cli build
+
+[1G[0K⠙[1G[0K[32m
+Vite@7.2.6 vite-plugin-external@6.2.2[39m
+[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x6)[39m
+[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1G[32m✓[39m 6 modules transformed.
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 6 modules transformed. [33m(x2)[39m
+[2K[1Gtransforming (4) [2msrc/facade/f-event.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 6 modules transformed. [33m(x3)[39m
+[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1G[2K[1G[2K[1Grendering chunks (1)...[2K[1G[2K[1Gtransforming (11) [2msrc/controllers/config.schema.ts[22m[2K[1Gtransforming (11) [2msrc/controllers/config.schema.ts[22m[2K[1Gtransforming (11) [2msrc/controllers/config.schema.ts[22m[32m
+[36m[vite:dts][32m Start generate declaration files...[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gtransforming (12) [2msrc/services/sheet-filter-formula.service.ts[22m[2K[1Gtransforming (13) [2msrc/services/sheet-filter-formula.service.ts[22m[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/facade.js  [39m[1m[2m13.39 kB[22m[1m[22m[2m │ gzip: 2.24 kB[22m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/facade.js  [39m[1m[2m4.60 kB[22m[1m[22m[2m │ gzip: 1.17 kB[22m
+[32m✓ built in 19.44s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/facade.js  [39m[1m[2m4.95 kB[22m[1m[22m[2m │ gzip: 1.31 kB[22m
+[32m✓ built in 19.46s[39m
+[2K[1Gtransforming (13) [2msrc/controllers/sheets-filter.controller.ts[22m[32m[36m[vite:dts][32m Declaration files built in 19084ms.
+[39m
+[32m✓ built in 19.48s[39m
+[2K[1G[32m✓[39m 14 modules transformed.
+[2K[1Gtransforming (14) [2msrc/utils.ts[22m[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 14 modules transformed. [33m(x2)[39m
+[2K[1Gtransforming (14) [2msrc/utils.ts[22m[2K[1Grendering chunks (1)...[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 14 modules transformed. [33m(x3)[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/index.js  [39m[1m[2m38.33 kB[22m[1m[22m[2m │ gzip: 10.06 kB[22m
+[32m✓ built in 19.94s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/index.js  [39m[1m[2m51.99 kB[22m[1m[22m[2m │ gzip: 12.30 kB[22m
+[32m✓ built in 19.94s[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/index.js  [39m[1m[2m38.19 kB[22m[1m[22m[2m │ gzip: 9.92 kB[22m
+[32m✓ built in 19.96s[39m
+[1G[0K⠙[1G[0K

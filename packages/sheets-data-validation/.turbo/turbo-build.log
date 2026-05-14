@@ -1,0 +1,135 @@
+
+
+> @univerjs/sheets-data-validation@0.12.4 build /home/bappu/websitenew/web/univer/packages/sheets-data-validation
+> univer-cli build
+
+[1G[0K⠙[1G[0K[32m
+Vite@7.2.6 vite-plugin-external@6.2.2[39m
+[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x6)[39m
+[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (7) [2msrc/facade/f-data-validation.ts[22m[2K[1Gtransforming (3) [2msrc/facade/f-univer.ts[22m[2K[1G[2K[1G[32m✓[39m 8 modules transformed.
+[2K[1Gtransforming (7) [2msrc/facade/f-data-validation-builder.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (7) [2msrc/facade/f-worksheet.ts[22m[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 8 modules transformed. [33m(x2)[39m
+[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1Gtransforming (2) [2msrc/plugin.ts[22m[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 8 modules transformed. [33m(x3)[39m
+[2K[1Gtransforming (10) [2msrc/utils/get-cell-data-origin.ts[22m[2K[1Gtransforming (8) [2msrc/models/sheet-data-validation-model.ts[22m[2K[1Gtransforming (3) [2msrc/common/const.ts[22m[2K[1Gtransforming (20) [2msrc/commands/commands/data-validation.command.ts[22m[2K[1Gtransforming (16) [2msrc/validators/util.ts[22m[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1Gtransforming (22) [2msrc/controllers/config.schema.ts[22m[2K[1G[2K[1Gtransforming (22) [2msrc/controllers/config.schema.ts[22m[32m
+[36m[vite:dts][32m Start generate declaration files...[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/facade.js  [39m[1m[2m20.41 kB[22m[1m[22m[2m │ gzip: 3.51 kB[22m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/facade.js  [39m[1m[2m19.90 kB[22m[1m[22m[2m │ gzip: 3.35 kB[22m
+[32m✓ built in 17.41s[39m
+[2K[1Gtransforming (33) [2msrc/validators/any-validator.ts[22m[2K[1Gtransforming (33) [2msrc/validators/any-validator.ts[22m[2K[1Gtransforming (33) [2msrc/validators/any-validator.ts[22m[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/facade.js  [39m[1m[2m60.27 kB[22m[1m[22m[2m │ gzip: 7.36 kB[22m
+[32m✓ built in 17.43s[39m
+[32m[36m[vite:dts][32m Declaration files built in 16308ms.
+[39m
+[32m✓ built in 17.51s[39m
+[2K[1G[2K[1G[32m✓[39m 40 modules transformed.
+[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 40 modules transformed. [33m(x2)[39m
+[2K[1G[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 40 modules transformed. [33m(x3)[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/index.js  [39m[1m[2m90.53 kB[22m[1m[22m[2m │ gzip: 18.57 kB[22m
+[32m✓ built in 18.05s[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/index.js  [39m[1m[2m72.95 kB[22m[1m[22m[2m │ gzip: 15.78 kB[22m
+[32m✓ built in 18.09s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/index.js  [39m[1m[2m72.82 kB[22m[1m[22m[2m │ gzip: 15.90 kB[22m
+[32m✓ built in 18.09s[39m
+[1G[0K⠙[1G[0K

@@ -1,0 +1,135 @@
+
+
+> @univerjs/sheets-numfmt@0.12.4 build /home/bappu/websitenew/web/univer/packages/sheets-numfmt
+> univer-cli build
+
+[1G[0K⠙[1G[0K[32m
+Vite@7.2.6 vite-plugin-external@6.2.2[39m
+[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[36mvite v7.2.6 [32mbuilding client environment for production...[36m[39m [33m(x6)[39m
+[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/facade/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1Gtransforming (1) [2msrc/index.ts[22m[2K[1G[32m✓[39m 3 modules transformed.
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 3 modules transformed. [33m(x2)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 3 modules transformed. [33m(x3)[39m
+[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Grendering chunks (1)...[2K[1Gtransforming (8) [2msrc/utils/decimal.ts[22m[2K[1Gtransforming (12) [2msrc/utils/pattern.ts[22m[2K[1Gtransforming (9) [2msrc/base/const/currency-symbols.ts[22m[2K[1G[2K[1G[2K[1G[32m
+[36m[vite:dts][32m Start generate declaration files...[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/facade.js  [39m[1m[2m1.27 kB[22m[1m[22m[2m │ gzip: 0.54 kB[22m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/facade.js  [39m[1m[2m1.54 kB[22m[1m[22m[2m │ gzip: 0.66 kB[22m
+[32m✓ built in 17.88s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/facade.js  [39m[1m[2m1.64 kB[22m[1m[22m[2m │ gzip: 0.61 kB[22m
+[32m✓ built in 17.88s[39m
+[2K[1Gtransforming (16) [2msrc/base/const/plugin-name.ts[22m[2K[1Gtransforming (16) [2msrc/base/const/plugin-name.ts[22m[2K[1Gtransforming (16) [2msrc/base/const/plugin-name.ts[22m[2K[1G[32m✓[39m 16 modules transformed.
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 16 modules transformed. [33m(x2)[39m
+[2K[1G
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[32m✓[39m 16 modules transformed. [33m(x3)[39m
+[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[2K[1Grendering chunks (1)...[2K[1G[32m[36m[vite:dts][32m Declaration files built in 17786ms.
+[39m
+[32m✓ built in 18.13s[39m
+[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (0)...[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mumd/index.js  [39m[1m[2m14.08 kB[22m[1m[22m[2m │ gzip: 4.74 kB[22m
+[32m✓ built in 18.14s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mes/index.js  [39m[1m[2m18.26 kB[22m[1m[22m[2m │ gzip: 5.42 kB[22m
+[32m✓ built in 18.14s[39m
+[2K[1Gcomputing gzip size (1)...[2K[1G[2mlib/[22m[36mcjs/index.js  [39m[1m[2m13.95 kB[22m[1m[22m[2m │ gzip: 4.58 kB[22m
+[32m✓ built in 18.15s[39m
+[1G[0K⠙[1G[0K
