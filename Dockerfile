@@ -14,6 +14,8 @@ RUN pnpm run build:static
 
 FROM zeabur/caddy-static:latest
 
+COPY Caddyfile.zeabur /etc/caddy/Caddyfile
 COPY --from=0 /src/examples/local /usr/share/caddy
 
+EXPOSE 80
 EXPOSE 8080

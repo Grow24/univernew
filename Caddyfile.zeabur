@@ -1,0 +1,8 @@
+# Zeabur health checks often probe :80; Dockerfile historically used :8080.
+# Caddy listens on both so startup probes match regardless of dashboard port.
+# See https://zeabur.com/docs/en-US/deploy/networking/public-networking
+:80, :8080 {
+	root * /usr/share/caddy
+	encode gzip zstd
+	file_server
+}
