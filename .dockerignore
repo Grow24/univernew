@@ -2,6 +2,9 @@ node_modules
 **/node_modules
 .git
 .github
+.env
+.env.*
+.DS_Store
 **/.turbo
 **/dist
 **/coverage
