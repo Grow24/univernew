@@ -10,6 +10,10 @@ COPY . .
 
 RUN pnpm run install:ci
 
+# Root domain static host (Zeabur): default production base is /univer/ which 404s at site root.
+# See examples/esbuild.config.ts (UNIVER_ASSET_BASE).
+ENV UNIVER_ASSET_BASE=/
+
 RUN pnpm run build:static
 
 FROM zeabur/caddy-static:latest
