@@ -15,6 +15,8 @@ RUN pnpm run build:static
 FROM zeabur/caddy-static:latest
 
 COPY Caddyfile.zeabur /etc/caddy/Caddyfile
+# Echo in build logs so Zeabur confirms the shipped Caddyfile (debug port mismatch).
+RUN cat /etc/caddy/Caddyfile
 COPY --from=0 /src/examples/local /usr/share/caddy
 
 EXPOSE 80
