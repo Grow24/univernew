@@ -39,11 +39,12 @@ const args = minimist(process.argv.slice(2));
 const isE2E = !!args.e2e;
 const isReact16 = React.version.startsWith('16');
 
-// Production: all split chunks & dynamic imports must load under /univer/ (Zeabur + Caddy).
-// Watch/dev: relative paths so esbuild serve on :3002 and Vite proxy on :5173/univer both work.
+// Chunks load from '/' so they resolve at any host root (Zeabur, Netlify, etc.).
+// Dev (--watch): use './' so esbuild's own server works without a base-path proxy.
+// Override at build time with UNIVER_ASSET_BASE env var if needed.
 const univerAssetBase
     = process.env.UNIVER_ASSET_BASE?.replace(/\/?$/, '/')
-        ?? (args.watch ? './' : '/univer/');
+        ?? (args.watch ? './' : '/');
 
 // User should also config their bundler to build monaco editor's resources for web worker.
 const monacoEditorEntryPoints = [
