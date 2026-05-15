@@ -1,0 +1,3 @@
+# Netlify-style rewrites (zeabur/caddy-static zeaburextension).
+# Old builds use publicPath /univer/; files live at site root.
+/univer/*  /:splat  200

@@ -20,11 +20,16 @@ ENV NODE_ENV=production
 
 RUN pnpm run build:static:zeabur
 
+# Fail the image build if chunks still reference /univer/ (blank page on Zeabur root domain).
+RUN ! grep -q '"/univer/' /src/examples/local/sheets/main.js \
+    || (echo 'ERROR: sheets/main.js still uses /univer/ — set UNIVER_ASSET_BASE=/' && exit 1)
+
 FROM zeabur/caddy-static:latest
 
 COPY Caddyfile.zeabur /etc/caddy/Caddyfile
 RUN cat /etc/caddy/Caddyfile
 COPY --from=builder /src/examples/local /usr/share/caddy
+COPY examples/_redirects.zeabur /usr/share/caddy/_redirects
 
 EXPOSE 80
 EXPOSE 8080
