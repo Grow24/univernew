@@ -1,14 +1,30 @@
-# Zeabur K8s startup probe dials container port 80; zeabur/caddy-static defaults to 8080 only.
-# Two explicit listeners avoid probe "connection refused" on :80.
-# See https://zeabur.com/docs/en-US/deploy/networking/public-networking
+# Zeabur: listen on :80 (probe) and :8080.
+# Strip /univer/ prefix: production esbuild often uses publicPath /univer/ while files sit at site root.
+# See examples/esbuild.config.ts (UNIVER_ASSET_BASE).
 :80 {
-	root * /usr/share/caddy
 	encode gzip zstd
-	file_server
+
+	handle_path /univer/* {
+		root * /usr/share/caddy
+		file_server
+	}
+
+	handle {
+		root * /usr/share/caddy
+		file_server
+	}
 }
 
 :8080 {
-	root * /usr/share/caddy
 	encode gzip zstd
-	file_server
+
+	handle_path /univer/* {
+		root * /usr/share/caddy
+		file_server
+	}
+
+	handle {
+		root * /usr/share/caddy
+		file_server
+	}
 }

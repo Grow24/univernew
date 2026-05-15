@@ -1,5 +1,6 @@
 {
     "$schema": "https://turbo.build/schema.json",
+    "globalPassThroughEnv": ["UNIVER_ASSET_BASE"],
     "tasks": {
         "test": {
         },
