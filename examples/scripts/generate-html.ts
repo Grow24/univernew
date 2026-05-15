@@ -21,9 +21,10 @@ import fs from 'fs-extra';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // eslint-disable-next-line node/prefer-global/process
-export const IS_CI = !!process.env.CI;
+/** Strip esbuild live-reload snippet from shipped HTML (Docker / CI / NODE_ENV=production). */
+export const IS_PRODUCTION_HTML = !!(process.env.CI || process.env.NODE_ENV === 'production');
 
-const ESBUILD_SCRIPT = IS_CI
+const ESBUILD_SCRIPT = IS_PRODUCTION_HTML
     ? '' :
     `
         <script>
@@ -73,6 +74,9 @@ async function generateHtml() {
             fs.writeFileSync(path.resolve(__target, 'index.html'), indexTemplate);
         }
     });
+    // Root demo (examples/src/main.tsx) reads examples/public/index.html — keep in sync with template.
+    const rootIndex = path.resolve(__dirname, '../public/index.html');
+    fs.writeFileSync(rootIndex, indexTemplate);
 }
 
 generateHtml();
